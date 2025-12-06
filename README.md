@@ -30,7 +30,7 @@ README.md — Project documentation
 
 <img width="1386" height="614" alt="Screenshot 2025-12-06 142530" src="https://github.com/user-attachments/assets/5d66ad4c-6ff0-4601-8821-1adaf1d2b988" />
 
-/images/dashboard.png
+dashboard.png
 
 🛠 Tech Stack
 
