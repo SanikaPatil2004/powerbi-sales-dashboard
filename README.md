@@ -21,7 +21,7 @@ Detailed sub-category table filtered by state
 
 DashBoard.pbix — Power BI dashboard
 
-/images/ — Dashboard screenshots
+ DashBoard_Preview.png — Dashboard screenshots
 
 README.md — Project documentation
 
